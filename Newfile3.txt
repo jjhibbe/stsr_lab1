@@ -1,1 +1,2 @@
 third text file
+Added string to third text file
