@@ -1,2 +1,3 @@
 second text file
 Changes in second text file
+One more change to Newfile2.txt
